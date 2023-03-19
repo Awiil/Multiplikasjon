@@ -13,6 +13,3 @@ def text(t):
 answer = text("This is a new branch :)")
 print(answer)
 
-def merge(m):
-    return m
-print(merge("merge branch1 to master branch!!"))
